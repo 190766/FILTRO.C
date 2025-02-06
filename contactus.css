@@ -1,0 +1,46 @@
+.namvbar ul
+ {
+    list-style-type: none;
+    background-color: rgb(9, 4, 66);
+    padding: 16px;
+    margin:10px;
+    overflow: hidden;
+ }
+ .namvbar a
+ {
+    color :whitesmoke;
+    text-decoration: none;
+    padding: 15px;
+    text-align: center;
+ }
+ .namvbar a:hover
+ {
+    background-color:rgb(7, 123, 123)
+ }
+ .namvbar li{
+    float: left;
+ }
+ nav a{
+    color :rgb(254, 254, 254);
+    text-decoration: none;
+    padding: 15px;
+    text-align: center;
+ }
+ nav a:hover{
+    background-color:rgb(7, 123, 123)
+    
+ }
+ nav ul{
+    list-style-type: none;
+    background-color: rgb(39, 33, 109);
+    padding: 16px;
+    margin:10px;
+    overflow: hidden;
+
+ }
+ li{
+    float: inline-start;
+ }
+ body{
+    background-color:aquamarine;
+ }

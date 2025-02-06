@@ -1,0 +1,44 @@
+.card
+{
+    border: solid;
+    
+}
+.card a:hover
+{
+    background-color: aqua;
+transition: 2s;
+}
+ div{
+    background-position-x: center;
+    background-color: aliceblue;
+ }
+ .namvbar ul
+ {
+    list-style-type: none;
+    background-color: rgb(9, 4, 66);
+    padding: 16px;
+    margin:10px;
+    overflow: hidden;
+ }
+ .namvbar a
+ {
+    color :whitesmoke;
+    text-decoration: none;
+    padding: 15px;
+    text-align: center;
+ }
+ .namvbar a:hover
+ {
+    background-color:rgb(7, 123, 123)
+ }
+ .namvbar li{
+    float: left;
+ }
+
+ body{
+   background-color: aqua;
+ }
+ a{
+   text-decoration: none;
+   border: black solid 2px;
+ }
